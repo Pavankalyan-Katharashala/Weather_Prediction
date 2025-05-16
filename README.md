@@ -30,9 +30,10 @@ regression, random forest regression, and K-nearest neighbour. The output value 
 numerically based on multiple extra factors like maximum temperature, minimum 
 temperature, cloud cover, humidity, and sun hours in a day, precipitation, pressure and 
 wind speed. 
-4 
+
 Project Report: Machine Learning Model for Weather Forecasting 
-1. INTRODUCTION 
+1. INTRODUCTION
+   
 Weather prediction is the task of predicting the atmosphere at a future time and a given 
 area. This has been done through physical equations in the early days in which the 
 atmosphere is considered fluid. The current state of the environment is inspected, and the 
@@ -51,7 +52,9 @@ gave of any area. Contribution to these models is given, for example, if anticip
 temperature, least temperature, mean air weight, greatest temperature, mean dampness, 
 and order for 2 days. In light of this Minimum Temperature and Maximum Temperature 
 of 7 days will be accomplished. 
+
 Machine Learning 
+
 Machine learning is relatively robust to perturbations and does not need any other physical 
 variables for prediction. Therefore, machine learning is a much better opportunity in the 
 evolution of weather forecasting. Before the advancement of Technology, weather 
@@ -60,7 +63,7 @@ atmospheric conditions with less accuracy. Weather prediction and analysis have 
 increased in terms of accuracy and predictability with the use of the Internet of Things, for 
 the last 40 years. With the advancement of Data Science, Artificial Intelligence, Scientists 
 now do weather forecasting with high accuracy and predictability. 
-5 
+
 Project Report: Machine Learning Model for Weather Forecasting 
 USE OF ALGORITHMS: 
 There are different methods of foreseeing temperature utilizing Regression and a variety 
